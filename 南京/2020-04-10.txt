@@ -1,0 +1,5 @@
+﻿[<div class="comment_content">
+<p class="first">坐景区的观光车又到了明孝陵，明孝陵是朱元璋和马皇后的陵寝。整个景区还是比较大的，还有一个<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi18702123-shendao" target="_blank">神道</a>，两边立了很多石兽，所有景点自己一个人走的也比较快，经过<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi18702123-shendao" target="_blank">神道</a>一直走就出来了</p>
+</div>, <div class="comment_content">
+<p class="first"><a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi18702123-shendao" target="_blank">神道</a>两边的兽石</p>
+</div>]

@@ -1,0 +1,3 @@
+﻿[<div class="comment_content">
+<p class="first"><a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi26552401-mochouhu" target="_blank">莫愁湖</a>，位于南京秦淮区<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi706824-qinhuaihe" target="_blank">秦淮河</a>西，是一座有着1500年悠久历史和丰富人文资源的江南古典名园，为六朝胜迹。</p><p></p><p>地铁：地铁2号线【<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi26552401-mochouhu" target="_blank">莫愁湖</a>】站下车</p><p>门票：35元</p>
+</div>]

@@ -1,0 +1,7 @@
+﻿[<div class="comment_content">
+<p class="first">大堂吧里，一架钢琴弹奏出铿锵的音符，在富有节奏感的旋律中夜幕慢慢降临。</p>
+</div>, <div class="comment_content">
+<p class="first">走出大堂吧是一片草坪，也是是举办室外婚礼的场地，灯笼亮起来了，火红的暖色打破了夜的冷寂。</p>
+</div>, <div class="comment_content">
+<p class="first">涵碧楼的夜晚宁静安逸，灯光倒映在水池里，泛起粼粼波光，伴着轻轻的晚风，心情也舒缓释然。回到大堂，一转眼看到了一处墨香诗韵的书画角，给喜欢挥毫泼墨的书画爱好者一块施展的天地。</p>
+</div>]

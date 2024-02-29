@@ -1,0 +1,7 @@
+﻿[<div class="comment_content">
+<p class="first"> 且趁满园春色，记录下春的色彩斑斓。</p><p>         花团锦簇的绣球花，饱满而莹润。</p>
+</div>, <div class="comment_content">
+<p class="first">也许蜜蜂采的不是花蜜，是春天。它将春天采集，给每一位热爱生活的人儿捎去一份甜。</p>
+</div>, <div class="comment_content">
+<p class="first"> 金陵莫美于<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi715942-houhu" target="_blank">后湖</a>，我在这里感受着春风拂面，感受着一抹抹香火气。惬意且知足。</p>
+</div>]

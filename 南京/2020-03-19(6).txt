@@ -1,0 +1,9 @@
+﻿[<div class="comment_content">
+<p class="first">今天行程：<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi7565581-liuchaobowuguan" target="_blank">六朝博物馆</a>、1912文化街、鸡鸣寺、<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi715942-xuanwuhu" target="_blank">玄武湖</a>、南京大屠杀纪念馆</p>
+</div>, <div class="comment_content">
+<p class="first">早上又来了总统府，父母进总统府后，我便去了旁边的<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi7565581-liuchaobowuguan" target="_blank">六朝博物馆</a>。</p>
+</div>, <div class="comment_content">
+<p class="first">南京总统府</p>
+</div>, <div class="comment_content">
+<p class="first">南京总统府</p>
+</div>]

@@ -1,0 +1,3 @@
+﻿[<div class="comment_content">
+<p class="first">早晨可步行至<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi26553059-fuzimiao" target="_blank">夫子庙</a>，<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi26553059-fuzimiao" target="_blank">夫子庙</a>里有卖香火的地方，游客可以自费在学宫内的<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi35749347-zhonggulou" target="_blank">钟鼓楼</a>敲钟，以期盼学业有成；<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi26553059-fuzimiao" target="_blank">夫子庙</a>里还有民间艺术大观园，可以观看现场制作灯彩、剪纸、微雕等工艺品；</p>
+</div>]

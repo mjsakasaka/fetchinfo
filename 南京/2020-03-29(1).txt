@@ -1,0 +1,3 @@
+﻿[<div class="comment_content">
+<p class="first">上午10点，游览南京<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi701544-yuejianglou" target="_blank">阅江楼</a>，（门票及相关费用自理）<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi701544-yuejianglou" target="_blank">阅江楼</a>碧瓦朱楹、檐牙摩空，朱帘凤飞、彤扉彩盈。具有鲜明的明代风格，古典的皇家气派，成为南京的标志之一。</p>
+</div>]

@@ -1,0 +1,5 @@
+﻿[<div class="comment_content">
+<p class="first">简单收拾一下，下楼去吃自助餐，自助餐在一楼，位置也很好找。早餐丰盛美味，种类齐全。</p>
+</div>, <div class="comment_content">
+<p class="first">用完早餐，可以出发了。我们在酒店发现了六合旅游地图，不知道去哪里游玩的可以参照呢。</p>
+</div>]

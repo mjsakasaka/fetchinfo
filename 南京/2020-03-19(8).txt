@@ -1,0 +1,7 @@
+﻿[<div class="comment_content">
+<p class="first">天气渐暗前往夫子庙，<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi7524319-laomendong" target="_blank">老门东</a>离夫子庙很近，走路大概10分钟左右就可到</p>
+</div>, <div class="comment_content">
+<p class="first"><a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi720296-nanjingfuzimiao" target="_blank">南京夫子庙</a>乌衣巷</p>
+</div>, <div class="comment_content">
+<p class="first">夫子庙的乌衣巷，正在修路。</p>
+</div>]

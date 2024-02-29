@@ -1,0 +1,11 @@
+﻿[<div class="comment_content">
+<p class="first">两年前的十月，恰逢深秋。</p><p>       六朝金粉地，最忆是金陵。</p><p>       南京市属于秋天的城市，秋高气爽，不冷不热，景色也很美。 古朴、厚重，似乎连空气里飘荡着的，都是千年古都的余韵。</p>
+</div>, <div class="comment_content">
+<p class="first">地址：南京市玄武区<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi716158-zhongshanfengjingming" target="_blank">钟山风景名胜区</a>内</p><p><a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi9478152-sifangcheng" target="_blank">四方城</a>交通：地铁2号线<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi26561034-xiamafang" target="_blank">下马坊</a>站</p><p><a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi702846-zhongshanling" target="_blank">中山陵</a>站门票：30</p><p>开放时间：7:30-18:00.</p>
+</div>, <div class="comment_content">
+<p class="first">每逢秋季红枫世界，寺内的红枫、、银杏、古寺与秋色交融，美的不可方物。</p>
+</div>, <div class="comment_content">
+<p class="first">明孝陵的石像路，被称为“南京秋天最美的路”，两篇矗立着六百多年的古石像，满眼的红与黄相交，落叶纷飞时，帝王将相的故事也飘落在心间。</p><p>秋天的美龄宫，会有怎样的惊艳，从空中俯瞰美龄宫，如同一串项链的宝石坠心，人们赞其为“<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi716158-zijinshan" target="_blank">紫金山</a>之心”，说这是蒋介石对宋美龄的爱情宣言。</p>
+</div>, <div class="comment_content">
+<p class="first">地址：南京市玄武区<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi716158-zhongshanfengjingming" target="_blank">钟山风景名胜区</a></p><p>交通：3路、20路、202路，地铁2号线<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi26561034-xiamafang" target="_blank">下马坊</a>站</p><p>门票：70元</p><p>开放时间：6:30-18:00</p>
+</div>]

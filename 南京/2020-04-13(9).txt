@@ -1,0 +1,9 @@
+﻿[<div class="comment_content">
+<p class="first">关于住宿</p><p></p><p>南京弘阳酒店</p><p></p><p>酒店位于南京市浦口区北外滩最具人气和规模的超大型商业圈——弘阳广场，交通便利，地段繁华。</p>
+</div>, <div class="comment_content">
+<p class="first">客房宽敞明亮，暖橘色的灯光、米色的窗帘、壁纸、地毯等色调相互融合，简约中透露着几分<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi34813819-gaogui" target="_blank">高贵</a>的情调，大面积纯色带来另一种低调的宁静感，从视觉上将质朴美感表现得更加自然，让入住的我们倍感舒心和温暖。</p>
+</div>, <div class="comment_content">
+<p class="first">早餐很丰盛，环境位置极佳，靠窗可以欣赏到弘阳广场的摩天轮，心情超级晴朗~</p>
+</div>, <div class="comment_content">
+<p class="first">所属区域：南京市浦口区</p><p></p><p>酒店类型：高端酒店</p><p></p><p>参考价：452元起</p>
+</div>]

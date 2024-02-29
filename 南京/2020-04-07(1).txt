@@ -1,0 +1,11 @@
+﻿[<div class="comment_content">
+<p class="first">提前好几天在网上预订的，看到好评很多很满意。居民区中，有免费的停车位，把车放在酒店，叫个车安心的外出游玩，与各大景点距离不远，出行交通非常的方便。酒店不是很大，但是很干净很温馨，住的很舒适很安静。附近美食不少，临商铺也不少。</p>
+</div>, <div class="comment_content">
+<p class="first">房间还配智能马桶</p>
+</div>, <div class="comment_content">
+<p class="first">门厅</p>
+</div>, <div class="comment_content">
+<p class="first">廊厅</p>
+</div>, <div class="comment_content">
+<p class="first">大厅的小机器人 很可爱 有时会把你送回房间</p>
+</div>]
