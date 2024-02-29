@@ -1,0 +1,5 @@
+﻿[<div class="comment_content">
+<p class="first">旅游光顾车还有意识。</p>
+</div>, <div class="comment_content">
+<p class="first">街两旁各种特色店铺琳琅满目。</p>
+</div>]

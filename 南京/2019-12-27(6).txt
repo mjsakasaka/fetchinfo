@@ -1,0 +1,5 @@
+﻿[<div class="comment_content">
+<p class="first">吃饱喝足来到<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi706824-qinhuaihe" target="_blank">秦淮河</a>边。</p>
+</div>, <div class="comment_content">
+<p class="first"><a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi706824-qinhuaihe" target="_blank">秦淮河</a>夜景，两岸还不定时的有仿古代戏曲表演。</p>
+</div>]
