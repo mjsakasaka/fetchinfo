@@ -1,0 +1,3 @@
+﻿[<div class="comment_content">
+<p class="first">从<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi5420096-suzhouzhan" target="_blank">苏州站</a>步行至<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi23341194-pingmenqiao" target="_blank">平门桥</a>约12分钟，0.8公里。</p>
+</div>]

@@ -1,0 +1,5 @@
+﻿[<div class="comment_content">
+<p class="first">金鸡湖邻居～苏州地标“东方之门”</p>
+</div>, <div class="comment_content">
+<p class="first">金鸡湖夜景</p>
+</div>]

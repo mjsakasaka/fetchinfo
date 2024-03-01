@@ -1,0 +1,7 @@
+﻿[<div class="comment_content">
+<p class="first">这家网红青团店，黑芝麻青团1元/个，但是很小，而且不够软糯，馅儿也偏甜，不推荐</p>
+</div>, <div class="comment_content">
+<p class="first">这个米饭饼好评，样子和铜锣烧很像，中间没有夹心，就是两块烤过的米饼粘在一起，咬在嘴里又软又有点锅贴的脆脆感，好评～</p>
+</div>, <div class="comment_content">
+<p class="first">这家的油墩子有鲜肉和豆沙的两种，都是3.5元/个。晚上六点去鲜肉的卖完了，豆沙的口感很像麻团和北方的糯米炸糕，而且凉了口感略显一般。</p>
+</div>]

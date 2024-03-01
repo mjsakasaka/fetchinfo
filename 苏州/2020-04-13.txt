@@ -1,0 +1,9 @@
+﻿[<div class="comment_content">
+<p class="first">微信公众号“苏州狮子林”上预约门票进入</p>
+</div>, <div class="comment_content">
+<p class="first">假山里最像狮子的<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi8596067-taihu" target="_blank">太湖</a>石</p>
+</div>, <div class="comment_content">
+<p class="first">精美石舫，北京颐和园里也有个石舫，只可以不能参观，但是狮子林的石舫可以进去拍照参观哦～</p>
+</div>, <div class="comment_content">
+<p class="first">春暖花开的狮子林美的不像话，百花齐放争奇斗艳～</p>
+</div>]

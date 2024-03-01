@@ -1,0 +1,7 @@
+﻿[<div class="comment_content">
+<p class="first">金鸡湖于苏州是不是就像西湖于杭州</p>
+</div>, <div class="comment_content">
+<p class="first">东方之门</p>
+</div>, <div class="comment_content">
+<p class="first">没看出来吧，那是个摩天轮</p>
+</div>]

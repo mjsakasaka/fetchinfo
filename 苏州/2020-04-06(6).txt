@@ -1,0 +1,3 @@
+﻿[<div class="comment_content">
+<p class="first">这个博物馆是在<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi703504-suzhoubowuguan" target="_blank">苏州博物馆</a>附近的，有兴趣的可以看看～</p>
+</div>]

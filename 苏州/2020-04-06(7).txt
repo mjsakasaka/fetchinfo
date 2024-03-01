@@ -1,0 +1,9 @@
+﻿[<div class="comment_content">
+<p class="first">记录下苏州的交通卡～</p>
+</div>, <div class="comment_content">
+<p class="first">记得一定要在网上预约，不然就不能进去了</p>
+</div>, <div class="comment_content">
+<p class="first">里面真的很美很美</p>
+</div>, <div class="comment_content">
+<p class="first">传说中的最美石榴树</p>
+</div>]

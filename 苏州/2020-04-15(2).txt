@@ -1,0 +1,7 @@
+﻿[<div class="comment_content">
+<p class="first">当地老字号餐厅，24小时营业哦，什么时间过来都能吃到热的。</p>
+</div>, <div class="comment_content">
+<p class="first">老板娘本人，服务热情，和左上角的画像很像～</p>
+</div>, <div class="comment_content">
+<p class="first">左边的荷叶包美人（薄饼加油条，抹上甜酱）。饼是凉的，油条热的很大，可以让店员用微波炉加热下。咸豆浆（油渣，油条，葱），粢饭糕（炸过的很酥脆，糯米加香葱），活珠子最鲜美，（类似毛蛋，新鲜小鸡蛋蒸出来的）</p>
+</div>]
