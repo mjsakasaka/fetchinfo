@@ -1,0 +1,7 @@
+﻿[<div class="comment_content">
+<p class="first">临水的一条古街，有很多小吃和小店，和很多江南古镇很像，有特点的是一些小巷和临水的风光。</p>
+</div>, <div class="comment_content">
+<p class="first">这就是都挺好中常出现的那家餐厅，看起来没有营业的样子，很多人在门口拍照。</p>
+</div>, <div class="comment_content">
+<p class="first">走到平江路尽头不远处就是<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi707228-zhuozhengyuan" target="_blank">拙政园</a>和<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi703504-suzhoubowuguan" target="_blank">苏州博物馆</a>了，两个地方紧挨着。由于原先去过<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi707228-zhuozhengyuan" target="_blank">拙政园</a>，这次去打卡博物馆。</p>
+</div>]

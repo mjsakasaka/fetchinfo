@@ -1,0 +1,7 @@
+﻿[<div class="comment_content">
+<p class="first">临水的一条步行街，适合晚上去，街不长，和很多古镇很像。小河边有一些酒吧，坐下来吹着夏天的凉风还是比较惬意的。</p>
+</div>, <div class="comment_content">
+<p class="first"><a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi26552695-shantangjie" target="_blank">山塘街</a>不短，主要是夜景，相比<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi5740205-pingjianglu" target="_blank">平江路</a>这边的小河会更宽一些，游览起来视野也更开阔一些。</p>
+</div>, <div class="comment_content">
+<p class="first">晚上会有<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi23874968-youchuan" target="_blank">游船</a>，这个地方是<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi26552695-shantangjie" target="_blank">山塘街</a>最宽阔的水域了，旁边还有小酒馆，坐一坐非常惬意。</p>
+</div>]

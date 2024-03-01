@@ -1,0 +1,17 @@
+﻿[<div class="comment_content">
+<p class="first">旁边还有一园林博物馆免费参观，进去游走一番</p>
+</div>, <div class="comment_content">
+<p class="first">苏州园林博物馆</p>
+</div>, <div class="comment_content">
+<p class="first">苏州园林博物馆</p>
+</div>, <div class="comment_content">
+<p class="first">苏州园林博物馆</p>
+</div>, <div class="comment_content">
+<p class="first">苏州园林博物馆</p>
+</div>, <div class="comment_content">
+<p class="first">内有各<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi709165-geyuan" target="_blank">个园</a>林的介绍</p>
+</div>, <div class="comment_content">
+<p class="first">苏州园林博物馆</p>
+</div>, <div class="comment_content">
+<p class="first"><a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi703504-suzhoubowuguan" target="_blank">苏州博物馆</a>也在不远处，但需要提前预约，这个就是提前预约的软件。</p>
+</div>]

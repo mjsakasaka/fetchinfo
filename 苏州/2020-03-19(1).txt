@@ -1,0 +1,5 @@
+﻿[<div class="comment_content">
+<p class="first">苏州普福禅寺</p>
+</div>, <div class="comment_content">
+<p class="first">此是一处小<a class="link" data-beacon="comment_poi" href="http://travel.qunar.com/p-oi20051886-miaoyu" target="_blank">庙宇</a>“普福禅寺”。</p>
+</div>]
