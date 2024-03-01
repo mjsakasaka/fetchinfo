@@ -1,0 +1,7 @@
+﻿[<div class="comment_content">
+<p class="first">| 鹿鸣谷</p>
+</div>, <div class="comment_content">
+<p class="first">回去前特意来一趟鹿鸣谷</p>
+</div>, <div class="comment_content">
+<p class="first">漫步在鹿鸣谷的竹林间，吐纳清新空气,感受春天的气息。</p>
+</div>]
